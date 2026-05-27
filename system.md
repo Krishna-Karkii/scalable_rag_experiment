@@ -17,12 +17,11 @@
 # Current Architecture
 
 Backend/
-|---- app/
-|---- routers/
-|---- utils/
+    |-- app/
+    |-- routers/
+    |-- utils/
 Frontend
-|--- src/
-     |---> (Currently Thinking about using Typescript)
+    |---> (Currently Thinking about using Typescript)
 
 
 # Stacks
